@@ -178,4 +178,4 @@ After completing task number 5 you should be able to run the entire `iterations.
 
 ## Task 6 - making the plot prettier
 
-The plotting function in task 5 plots a volumes from a random station. Make changes as necessary so that we have appropriate legends to the plot - particularly the name of the traffic station. 
+The plotting function in task 5 plots a volumes from a random station. Make changes as necessary so that we have appropriate legends to the plot - particularly the name of the traffic station 
